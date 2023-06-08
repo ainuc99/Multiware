@@ -1,0 +1,2 @@
+#define REFIND_VERSION L"1.2.23418"
+

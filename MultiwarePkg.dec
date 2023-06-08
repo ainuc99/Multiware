@@ -1,0 +1,9 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = MultiwarePkg
+  PACKAGE_GUID                   = d556f4c5-d035-5981-8419-cf53777cffa7
+  PACKAGE_VERSION                = 1.0.0
+
+[Includes]
+#  StdLib/Include
+  Include
